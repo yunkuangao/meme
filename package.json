@@ -1,0 +1,23 @@
+{
+  "name": "@yunkuangao/koishi-plugin-meme",
+  "description": "关于群399899914成员logier(785189653)的表情包思路插件探索方向",
+  "version": "0.1.2",
+  "author": "yun <yun@yka.moe>",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/yunkuangao/meme",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.13.6"
+  }
+}
